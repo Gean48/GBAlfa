@@ -1,0 +1,18 @@
+{
+  "GB": {
+    "update_code": "1",
+    "reminder_time": "8",
+    "update_link": "https://www.gbgroupapps.com/?p=508",
+    "stickers_app": "dontcheck",
+    "stickers_app_package_name": "com.gbstickers.gb",
+    "stickers_app_link": "https://play.google.com/store/apps/details?id=com.gbstickers.gb",
+    "stickers_app_direct_link": "https://www.gbgroupapps.com/?p=508",
+    "update_message": "
+<p>ØªØ­Ø¯ÙŠØ« 12</p>
+
+<li>Ø¥ØµÙ„Ø§Ø­ Ø§Ù„Ù…Ø´Ø§ÙƒÙ„</li>
+
+<li>Bugs Fixed</li>
+"
+    }
+}
