@@ -1,7 +1,7 @@
 {
   "GB": {
-    "update_code": "2",
-    "hora_do_lembrete": "8",
+    "update_code": "1",
+    "reminder_time": "8",
     "update_link": "https://www.gbgroupapps.com/?p=508",
     "stickers_app": "dontcheck",
     "stickers_app_package_name": "com.gbstickers.gb",
