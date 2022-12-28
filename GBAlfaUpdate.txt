@@ -1,18 +1,1 @@
-{
-  "GB": {
-    "update_code": "1",
-    "reminder_time": "8",
-    "update_link": "https://www.gbgroupapps.com/?p=508",
-    "stickers_app": "dontcheck",
-    "stickers_app_package_name": "com.gbstickers.gb",
-    "stickers_app_link": "https://play.google.com/store/apps/details?id=com.gbstickers.gb",
-    "stickers_app_direct_link": "https://www.gbgroupapps.com/?p=508",
-    "update_message": "
-<p>ØªØ­Ø¯ÙŠØ« 12</p>
-
-<li>Ø¥ØµÙ„Ø§Ø­ Ø§Ù„Ù…Ø´Ø§ÙƒÙ„</li>
-
-<li>Bugs Fixed</li>
-"
-    }
-}
+{'ver1':'9', 'ver2':'50', 'ver3':'Nairton Silva\n\n🅝🅢🅦🅗🅐🅣🅢🅐🅟🅟\n>> ɴsᴡʜᴀᴛsᴀᴘᴘ.ᴏʀɢ <<\n\n𝗩 𝟵.𝟱𝟬𝗙\n𝟷7/𝟷𝟸/𝟸𝟶𝟸𝟸\n\nCorrigido problemas no áudio\nE outras correçãoes\n' , 'dli':'https://www.nswhatsapp.org/2020/07/download-ns-whatsapp-atualizado-oficial.html', 'exp951':'500'}
